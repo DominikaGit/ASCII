@@ -1,0 +1,3 @@
+/home/dominika/GIT/ASCII/cmake-build-debug/CMakeFiles/ASCII.dir
+/home/dominika/GIT/ASCII/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dominika/GIT/ASCII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
